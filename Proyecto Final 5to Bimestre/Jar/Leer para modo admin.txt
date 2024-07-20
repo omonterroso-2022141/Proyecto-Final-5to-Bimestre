@@ -1,0 +1,4 @@
+Contraseña fija modo Admin:
+
+usuario: Admin
+password/contraseña: admin
